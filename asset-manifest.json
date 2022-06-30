@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Interview-QnA/static/css/main.054f9198.css",
+    "main.css": "/Interview-QnA/static/css/main.f4c32619.css",
     "main.js": "/Interview-QnA/static/js/main.306a68e5.js",
     "index.html": "/Interview-QnA/index.html",
-    "main.054f9198.css.map": "/Interview-QnA/static/css/main.054f9198.css.map",
+    "main.f4c32619.css.map": "/Interview-QnA/static/css/main.f4c32619.css.map",
     "main.306a68e5.js.map": "/Interview-QnA/static/js/main.306a68e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.054f9198.css",
+    "static/css/main.f4c32619.css",
     "static/js/main.306a68e5.js"
   ]
 }
